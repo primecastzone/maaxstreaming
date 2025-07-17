@@ -10,7 +10,7 @@ Step-by-Step: Connect Your Provider at Max.com/providers
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_31-removebg-preview.png
    :width: 350px
    :align: center
    :height: 100px
